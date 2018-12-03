@@ -1,7 +1,7 @@
 # LTC-TMS Code Repository - Fall 2018
 
 ### Basic commands to put your work on Github
-
+  - May use a terminal in Visual Studio Code to input following command lines. 
 #### step 1: get the base project code onto your computer
 copy the codebase to your computer
 ```
